@@ -2,9 +2,15 @@
 
 <img src="banner.png">
 
-Profissional especializado em Inteligência Artificial e Automação de Processos, com experiência no desenvolvimento de chatbots inteligentes para WhatsApp, Telegram e outras plataformas.
-Atuo na criação de sistemas completos de IA que envolvem processamento de áudio, LLMs, RAG, LangChain, LangGraph, Agno e n8n, integrando dados e fluxos automatizados para otimizar operações empresariais.
-Domínio em Python e foco em transformar desafios complexos em soluções inteligentes, escaláveis e de alto impacto tecnológico.
+### Olá, sou o Kelvim 👋
+
+Analista de Dados e Engenheiro de Inteligência Artificial, focado em
+transformar dados e documentos complexos em decisões e sistemas inteligentes.
+
+🔭 Atualmente: análise de dados e soluções de IA/LLMs no Instituto
+   Nacional de Estatística de Angola (INE)
+🧠 Stack: Excel · SQL · Power BI · Python · FastAPI · LangChain · RAG · AI Agents
+🌍 Objetivo: liderar soluções de dados e IA para governos e empresas em Angola e África
 
 – Habilidades de comunicação, que podem incluir escrita, negociação, apresentação e ensino / orientação.
 
