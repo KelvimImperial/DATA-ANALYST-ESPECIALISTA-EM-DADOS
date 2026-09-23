@@ -9,8 +9,11 @@ Domínio em Python e foco em transformar desafios complexos em soluções inteli
 – Habilidades de comunicação, que podem incluir escrita, negociação, apresentação e ensino / orientação.
 
 # Projetos:
-- Analise do comportamento de compra do cliente - https://github.com/KelvimImperial/Analise_comportamento_de_compra_do_cliente
-- ChatBot especializado na Constituição Angolana: - https://github.com/KelvimImperial/bot-constitucaoAngolana
+- Analise do comportamento de compra do cliente: https://shre.ink/Gk7L
+- ChatBot especializado na Constituição Angolana: https://github.com/KelvimImperial/bot-constitucaoAngolana
 - Prevendo se a seguradora Perdera Clientes: https://shre.ink/Gk5F
-- Analise de Dados para-E-commerce: https://github.com/KelvimImperial/Projeto-de-Portf-lio-de-Analista-de-Dados-SQL-para-E-commerce-na-Zepto
+- Analise de Dados para-E-commerce: https://shre.ink/Gk73
+- Análise de dados para a Detecção do Câncer de Mama: https://shre.ink/Gk7j
+- Detectando Fraudes Em Transferências Bancárias: https://shre.ink/Gk7K
+ 
   
