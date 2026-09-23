@@ -9,7 +9,9 @@ transformar dados e documentos complexos em decisões e sistemas inteligentes.
 
 🔭 Atualmente: análise de dados e soluções de IA/LLMs no Instituto
    Nacional de Estatística de Angola (INE)
+   
 🧠 Stack: Excel · SQL · Power BI · Python · FastAPI · LangChain · RAG · AI Agents
+
 🌍 Objetivo: liderar soluções de dados e IA para governos e empresas em Angola e África
 
 – Habilidades de comunicação, que podem incluir escrita, negociação, apresentação e ensino / orientação.
