@@ -1,4 +1,4 @@
-# DATA-ANALYST-ESPECIALISTA-EM-DADOS
+# DATA-ANALYST | AI ENGINEER
 
 <img src="banner.png">
 
