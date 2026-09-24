@@ -23,5 +23,7 @@ transformar dados e documentos complexos em decisões e sistemas inteligentes.
 - Analise de Dados para-E-commerce: https://shre.ink/Gk73
 - Análise de dados para a Detecção do Câncer de Mama: https://shre.ink/Gk7j
 - Detectando Fraudes Em Transferências Bancárias: https://shre.ink/Gk7K
+- ChatBot Especializado em responder perguntas sobre o IVA: https://shre.ink/GQiI
+- Detecção de Fraudes em Cartões de Crédito: https://shre.ink/GQya
  
   
