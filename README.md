@@ -25,5 +25,6 @@ transformar dados e documentos complexos em decisões e sistemas inteligentes.
 - Detectando Fraudes Em Transferências Bancárias: https://shre.ink/Gk7K
 - ChatBot Especializado em responder perguntas sobre o IVA: https://shre.ink/GQiI
 - Detecção de Fraudes em Cartões de Crédito: https://shre.ink/GQya
+- Sistema De Recomendação de filmes: https://shre.ink/GQF0
  
   
