@@ -19,7 +19,7 @@ transformar dados e documentos complexos em decisões e sistemas inteligentes.
 # Projetos:
 - Analise do comportamento de compra do cliente: https://shre.ink/Gk7L
 - ChatBot especializado na Constituição Angolana: https://github.com/KelvimImperial/bot-constitucaoAngolana
-- Prevendo se a seguradora Perdera Clientes: https://shre.ink/Gk5F
+- Prev: https://shre.ink/Gk5F
 - Analise de Dados para-E-commerce: https://shre.ink/Gk73
 - Análise de dados para a Detecção do Câncer de Mama: https://shre.ink/Gk7j
 - Detectando Fraudes Em Transferências Bancárias: https://shre.ink/Gk7K
