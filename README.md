@@ -4,17 +4,13 @@
 
 ### Olá, sou o Kelvim 👋
 
-Analista de Dados e Engenheiro de Inteligência Artificial, focado em
-transformar dados e documentos complexos em decisões e sistemas inteligentes.
+Sou AI Engineer e Data Scientist, com mais de 2 anos de experiência no desenvolvimento de soluções de Inteligência Artificial, Machine Learning e IA Generativa. Tenho experiência em Python, análise e preparação de dados, integração de modelos de Machine Learning, Large Language Models (LLMs), Conversational AI, Enterprise Search, sistemas RAG e agentes inteligentes.
 
-🔭 Atualmente: análise de dados e soluções de IA/LLMs no Instituto
-   Nacional de Estatística de Angola (INE)
-   
-🧠 Stack: Excel · SQL · Power BI · Python · FastAPI · LangChain · RAG · AI Agents
+Actualmente, trabalho no Instituto Nacional de Estatística de Angola (INE), onde actuo na análise e tratamento de dados estatísticos, desenvolvimento de relatórios e dashboards, e construção de soluções de Inteligência Artificial para tornar a informação mais acessível e apoiar a tomada de decisões.
 
-🌍 Objetivo: liderar soluções de dados e IA para governos e empresas em Angola e África
+A minha experiência inclui o desenvolvimento de aplicações empresariais, integração de APIs e bases de dados, automação de processos e construção de sistemas inteligentes utilizando tecnologias como Python, FastAPI, LangChain e LangGraph.
 
-– Habilidades de comunicação, que podem incluir escrita, negociação, apresentação e ensino / orientação.
+Tenho interesse em aplicar Ciência de Dados e Inteligência Artificial na resolução de desafios empresariais, optimização de processos e desenvolvimento de soluções tecnológicas escaláveis para diferentes sectores.
 
 # Projetos:
 - Analise do comportamento de compra do cliente: https://shre.ink/Gk7L
