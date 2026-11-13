@@ -1,4 +1,4 @@
-# DATA-ANALYST | AI ENGINEER
+# AI ENGINEER | DATA SCIENTIST 
 
 <img src="banner.png">
 
