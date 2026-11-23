@@ -13,6 +13,7 @@ A minha experiência inclui o desenvolvimento de aplicações empresariais, inte
 Tenho interesse em aplicar Ciência de Dados e Inteligência Artificial na resolução de desafios empresariais, optimização de processos e desenvolvimento de soluções tecnológicas escaláveis para diferentes sectores.
 
 # Projetos:
+- Machine Learning na Detecção de Anomalias na Produção de Petróleo: https://shre.ink/hBWB
 - Analise do comportamento de compra do cliente: https://shre.ink/Gk7L
 - ChatBot especializado na Constituição Angolana: https://github.com/KelvimImperial/bot-constitucaoAngolana
 - Prevendo se a seguradora vai perder clientes: https://shre.ink/Gk5F
